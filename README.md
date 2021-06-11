@@ -2,7 +2,7 @@
 
 Multiclass segmentation of cloud patterns in satellite images.
 
-| ![alt text](output/imgs/01.png) | ![alt text](output/imgs/02.png)|
+| ![alt text](output/img/01.png) | ![alt text](output/img/02.png)|
 |:---:|:---:|
 
 Code for Kaggle's [Understanding Clouds from Satellite Images Challenge](https://www.kaggle.com/c/understanding_cloud_organization). This solution has scored 0.65455 (Dice) on private leaderboard and ranked 161st place (top 11%). 
@@ -41,4 +41,4 @@ Public leaderboard score: 0.65574<br>
 |Local Dice|0.578186|0.750014|0.642398|0.608013|
 
 #### Example of mask and model output
-![alt text](output/imgs/4e2044f_output.png "")
+![alt text](output/img/4e2044f_output.png "")
